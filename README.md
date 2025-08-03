@@ -1,1 +1,1 @@
-# Prodigy_Task-1
+# Prodigy_Tasks
